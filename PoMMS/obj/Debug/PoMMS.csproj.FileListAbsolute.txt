@@ -1,0 +1,26 @@
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\bin\Debug\pommsuserdata.mdf
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\bin\Debug\pommsuserdata_log.ldf
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\bin\Debug\PoMMS.exe.config
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\bin\Debug\PoMMS.exe
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\bin\Debug\PoMMS.pdb
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\bin\Debug\EntityFramework.dll
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\bin\Debug\MetroFramework.Design.dll
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\bin\Debug\MetroFramework.dll
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\bin\Debug\EntityFramework.xml
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\obj\Debug\PoMMS.AddExpense.resources
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\obj\Debug\PoMMS.AddIncome.resources
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\obj\Debug\PoMMS.Dashboard.resources
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\obj\Debug\PoMMS.Home.resources
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\obj\Debug\PoMMS.Properties.Resources.resources
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\obj\Debug\PoMMS.userAnalysis.resources
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\obj\Debug\PoMMS.userExHistory.resources
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\obj\Debug\PoMMS.userInHistory.resources
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\obj\Debug\PoMMS.userTracking.resources
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\obj\Debug\PoMMS.csproj.GenerateResource.Cache
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\obj\Debug\PoMMS.exe
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\obj\Debug\PoMMS.pdb
+C:\Users\Bobin-X\documents\visual studio 2012\Projects\PoMMS\PoMMS\obj\Debug\PoMMS.csprojResolveAssemblyReference.cache
+C:\Users\Bobin\Downloads\PoMMS\PoMMS\bin\Debug\PoMMS.exe.config
+C:\Users\Bobin\Downloads\PoMMS\PoMMS\obj\Debug\PoMMS.exe
+C:\Users\Bobin\Downloads\PoMMS\PoMMS\obj\Debug\PoMMS.pdb
